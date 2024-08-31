@@ -76,6 +76,9 @@
 
 <div align="center">
   <h2>🏆 Our Portfolios</h2>
+  </div>
+
+<div>
   <p>Check out some of our latest projects:</p>
   <ul>
     <li><a href="https://www.fkointech.com/portfolio/fkointech" target="_blank">F-Koin Tech - Company Website</a></li>
@@ -91,6 +94,9 @@
 
 <div align="center">
   <h2>💼 Industries We Serve</h2>
+</div>
+
+<div>
   <p>We have extensive experience across various industries, including:</p>
   <ul>
     <li><a href="https://www.fkointech.com/industry/technology" target="_blank">Technology</a></li>
