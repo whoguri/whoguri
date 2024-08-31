@@ -63,6 +63,9 @@
 
 <div align="center">
   <h2>📚 Recent Blog Posts</h2>
+</div>
+
+<div>
   <ul>
     <li><a href="https://www.fkointech.com/blog/how-fkointech-can-help-you-grow-your-business" target="_blank">How F-Koin Tech Can Help You Grow Your Business</a></li>
     <li><a href="https://www.fkointech.com/blog/how-fkointech-can-help-you-increase-your-profits" target="_blank">How F-Koin Tech Can Help You Increase Your Profits</a></li>
