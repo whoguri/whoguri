@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>F-Koin Tech 🚀</h1>
+  <h1>WhoGuri is now F-Koin Tech 🚀</h1>
   <img src="https://yourlogo.com/logo.png" alt="F-Koin Tech Logo" width="200"/>
-  <p><strong>Your Trusted Partner in Digital Transformation</strong></p>
-  <p>Based in Punjab, India, we specialize in crafting custom solutions for web, mobile, and desktop applications, along with expert digital marketing and graphic design services. At F-Koin Tech, we turn your innovative ideas into powerful digital experiences.</p>
+  <p><strong>Designing a digital world that works for you</strong></p>
+  <p>We specialize in creating innovative digital solutions at competitive prices. Our team of talented young professionals offers a range of services, including web development, mobile app development, digital marketing, and graphics design. With a focus on quality, creativity, and customer satisfaction, we are committed to helping our clients achieve their digital goals and bring their vision to life.</p>
 </div>
 
 <hr/>
@@ -110,7 +110,6 @@
   <h2>📞 Contact Us</h2>
   <p>Ready to start your next project with F-Koin Tech? Get in touch with us today!</p>
   <p><strong>Email:</strong> <a href="mailto:info@fkointech.com">info@fkointech.com</a></p>
-  <p><strong>Phone:</strong> +91-1234567890</p>
   <p><strong>Website:</strong> <a href="https://www.fkointech.com" target="_blank">fkointech.com</a></p>
 </div>
 
