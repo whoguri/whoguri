@@ -39,6 +39,7 @@
   </ul>
 </div>
 
+<!--
 <div>
   <h3>📈 Digital Marketing</h3>
   <ul>
@@ -58,7 +59,7 @@
     <li><a href="https://www.fkointech.com/service/graphic-designing" target="_blank">Brand Identity</a></li>
   </ul>
 </div>
-
+-->
 <hr/>
 
 <div align="center">
