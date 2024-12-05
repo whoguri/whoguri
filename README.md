@@ -127,5 +127,5 @@
   <p>Follow us on:</p>
   <a href="https://www.linkedin.com/company/f-koin-tech" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <!--   <a href="https://twitter.com/fkointech" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a> -->
-  <a href="https://www.facebook.com/fkointech" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+  <a href="https://www.facebook.com/fkointech2020" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 </div>
