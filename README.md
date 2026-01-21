@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>WhoGuri is now F-Koin Tech 🚀</h1>
+  <h1>WhoGuri is now F Koin Tech 🚀</h1>
 <!--   <img src="https://yourlogo.com/logo.png" alt="F-Koin Tech Logo" width="200"/> -->
   <p><strong>Designing a digital world that works for you</strong></p>
   <p>We specialize in creating innovative digital solutions at competitive prices. Our team of talented young professionals offers a range of services, including web development, mobile app development, digital marketing, and graphics design. With a focus on quality, creativity, and customer satisfaction, we are committed to helping our clients achieve their digital goals and bring their vision to life.</p>
