@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <p>I’m Gurwinder Singh, a Full-Stack Developer with 9+ years of experience delivering SaaS platforms, custom solutions, CRM/ERP systems, e-commerce solutions, and custom automation tools that drive real business growth. My focus is on creating end-to-end web solutions — from front-end interfaces that delight users to back-end systems that power efficiency, data integrity, and performance.</p>
 <br/>
-🌱 I’m currently learning *GraphQL and Flutter*
+🌱 I’m currently learning React Native.
 <br/>
 📫 How to reach me <a href="mailto:dev.whoguri@gmail.com">*dev.whoguri@gmail.com*</a>
 <br/>
