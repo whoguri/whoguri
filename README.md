@@ -52,10 +52,10 @@ I'm a Full-Stack Developer with **9+ years of experience** building SaaS platfor
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+  <!-- <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> -->
+  <!-- <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/> -->
+  <!-- <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/> -->
+  <!-- <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/> -->
 </p>
 
 **Databases**
@@ -103,15 +103,3 @@ I'm a Full-Stack Developer with **9+ years of experience** building SaaS platfor
 - **AI agents & automations** — tool-calling workflows that connect CRMs, ERPs, and internal APIs
 - **Smart features** — summarization, classification, data extraction, and content generation
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=whoguri&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoguri&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whoguri&color=blue&style=flat-square" alt="Profile views"/>
-</p>
