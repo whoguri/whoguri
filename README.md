@@ -9,8 +9,6 @@
   <a href="mailto:dev.whoguri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
-
 ### 🚀 About Me
 
 I'm a Full-Stack Developer with **9+ years of experience** building SaaS platforms, CRM/ERP systems, e-commerce solutions, and custom automation tools that drive real business growth. I work end to end — from front-end interfaces that delight users to back-end systems built for performance, data integrity, and scale.
@@ -21,7 +19,6 @@ I'm a Full-Stack Developer with **9+ years of experience** building SaaS platfor
 - 🌱 Currently learning **React Native** and exploring agentic AI patterns
 - 📫 Reach me at **[dev.whoguri@gmail.com](mailto:dev.whoguri@gmail.com)**
 
----
 
 ### 🛠️ Tech Stack
 
@@ -82,7 +79,7 @@ I'm a Full-Stack Developer with **9+ years of experience** building SaaS platfor
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40"/>
 </p>
 
@@ -93,8 +90,6 @@ I'm a Full-Stack Developer with **9+ years of experience** building SaaS platfor
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40"/>
 </p>
-
----
 
 ### 🤖 What I Build with AI
 
